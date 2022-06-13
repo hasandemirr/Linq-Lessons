@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\bin\Debug\Syntax.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\bin\Debug\Syntax.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\bin\Debug\Syntax.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\obj\Debug\Syntax.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\obj\Debug\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\obj\Debug\Syntax.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Syntax\obj\Debug\Syntax.pdb
