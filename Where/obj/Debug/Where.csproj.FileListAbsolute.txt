@@ -1,0 +1,6 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\bin\Debug\Where.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\bin\Debug\Where.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\bin\Debug\Where.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\obj\Debug\Where.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\obj\Debug\Where.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Where\obj\Debug\Where.pdb
