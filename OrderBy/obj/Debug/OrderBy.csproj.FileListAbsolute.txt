@@ -1,0 +1,6 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\bin\Debug\OrderBy.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\bin\Debug\OrderBy.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\bin\Debug\OrderBy.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\obj\Debug\OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\obj\Debug\OrderBy.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OrderBy\obj\Debug\OrderBy.pdb
