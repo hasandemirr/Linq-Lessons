@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\bin\Debug\Iquerable Ienumarable.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\bin\Debug\Iquerable Ienumarable.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\bin\Debug\Iquerable Ienumarable.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\obj\Debug\Iquerable Ienumarable.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\obj\Debug\Iquerable Ienumarable.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\obj\Debug\Iquerable Ienumarable.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Iquerable Ienumarable\obj\Debug\Iquerable Ienumarable.pdb
