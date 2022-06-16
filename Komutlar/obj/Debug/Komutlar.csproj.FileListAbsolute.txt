@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\bin\Debug\Komutlar.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\bin\Debug\Komutlar.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\bin\Debug\Komutlar.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\obj\Debug\Komutlar.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\obj\Debug\Komutlar.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\obj\Debug\Komutlar.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Komutlar\obj\Debug\Komutlar.pdb
