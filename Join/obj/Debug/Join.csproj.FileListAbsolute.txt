@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\bin\Debug\Join.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\bin\Debug\Join.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\bin\Debug\Join.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\obj\Debug\Join.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\obj\Debug\Join.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\obj\Debug\Join.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Join\obj\Debug\Join.pdb
