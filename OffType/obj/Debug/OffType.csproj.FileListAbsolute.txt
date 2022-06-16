@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\bin\Debug\OffType.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\bin\Debug\OffType.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\bin\Debug\OffType.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\obj\Debug\OffType.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\obj\Debug\OffType.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\obj\Debug\OffType.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\OffType\obj\Debug\OffType.pdb
