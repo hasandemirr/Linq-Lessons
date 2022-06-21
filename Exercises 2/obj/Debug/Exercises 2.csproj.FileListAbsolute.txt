@@ -1,0 +1,7 @@
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\bin\Debug\Exercises 2.exe.config
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\bin\Debug\Exercises 2.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\bin\Debug\Exercises 2.pdb
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\obj\Debug\Exercises 2.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\obj\Debug\Exercises 2.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\obj\Debug\Exercises 2.exe
+C:\Users\metha\Desktop\C# Lessons\Linq Lessons\Exercises 2\obj\Debug\Exercises 2.pdb
